@@ -1,6 +1,6 @@
 # Telecom Market Analysis
 
-Welcome to the Telecom Market Analysis repository! This comprehensive project delves into various crucial aspects of the telecom industry, providing valuable insights to inform data-driven decisions. The analysis covers the following key areas:
+This comprehensive project delves into various crucial aspects of the telecom industry, providing valuable insights to inform data-driven decisions. The analysis covers the following key areas:
 
 ### Usage Patterns and Trends
 
